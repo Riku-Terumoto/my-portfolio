@@ -1,0 +1,11 @@
+Model Information:
+* title:	Dragon
+* source:	https://sketchfab.com/3d-models/dragon-3e2e1aea18dc4a7da30b500ed9580b72
+* author:	rayleighsyafiq (https://sketchfab.com/rayleighsyafiq)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Dragon" (https://sketchfab.com/3d-models/dragon-3e2e1aea18dc4a7da30b500ed9580b72) by rayleighsyafiq (https://sketchfab.com/rayleighsyafiq) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
